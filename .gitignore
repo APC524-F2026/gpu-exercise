@@ -1,0 +1,7 @@
+
+build
+uv.lock
+.venv
+dist
+_test_artifacts
+__pycache__
